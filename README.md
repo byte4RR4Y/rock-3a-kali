@@ -14,5 +14,5 @@ First boot requires a wired internet connection, for installing the XFCE desktop
 The image size is 11.1 GB and the system will grow root filesystem on first boot.
 
 
-SD-Card Image: <a href="https://drive.google.com/file/d/1MyoHIU-b2ax2jEsig9epGenoWnCQCSHb/view?usp=sharing">kali-rock-3a-2023-05-15.img.xz</a> (1.4 GB)
+SD-Card Image: <a href="https://drive.google.com/file/d/1MyoHIU-b2ax2jEsig9epGenoWnCQCSHb/view?usp=sharing">kali-rock-3a-2023-05-15.img.xz</a> (2.2 GB)
 
