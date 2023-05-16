@@ -2,6 +2,7 @@
 # Kali Linux for the Radxa Rock 3A(untested)
 
 First boot requires a wired internet connection, for installing the XFCE desktop environment.
+!!!You must resize the root filesystem partition manually!!!
 
 ----------------
      kernel:____6.1.0
