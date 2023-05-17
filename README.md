@@ -1,5 +1,5 @@
 # rock-3a-kali
-# Kali Linux for the Radxa Rock 3A(untested)
+# Kali Linux for the Radxa Rock 3A (untested)
 
 
 ----------------
