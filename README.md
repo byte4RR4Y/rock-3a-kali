@@ -10,7 +10,7 @@
      password:__kali
 -----------------
 
-The image size is 16.5 GB and the system will grow root filesystem on first boot.
+The image size is 16.7 GB and the system will grow root filesystem on first boot.
 
 
 SD-Card Image: <a href="https://drive.google.com/file/d/1j_rukWRvlFamKC-29lodC6pXjodwvzJU/view?usp=sharing">kali-rock-3a-2023-05-16.img.xz</a> (3.2 GB)
