@@ -1,17 +1,63 @@
-# rock-3a-kali
-# Kali Linux for the Radxa Rock 3A (untested)
+# Kali Linux XFCE for Radxa Rock 3A
+__________________________________________________________________________________________________
+# A Kali Linux ARM image for the RADXA Rock 3A (untested)
+
+__________________________________________________________________________________________________
+"If it doesn't exist, create it yourself." Daniel Wieczorek
+__________________________________________________________________________________________________
+
+It's a Rolling release, so you can do: 
+-------------------------
+    apt update && apt upgrade && apt full-upgrade && apt dist-upgrade
+-------------------------
+to be up to date!
 
 
 ----------------
-     kernel:____6.1.0
-     desktop:___XFCE4
-     
-     login:_____kali
-     password:__kali
------------------
+REAL KALI LINUX
+----------------
 
-The image size is 16.7 GB and the system will grow root filesystem on first boot.
+This is a kali build from the bottom of a kali root filesystem
+The image is 16.7 GB and therefore a 32 GB SD card is required. 
+----------------------------
+    login:_______kali
+    password:____kali
+    ----------------------
+    Desktop: XFCE4
+    Kernel: 6.1.0
+    Build Date: 2023/05/16
+----------------------------
 
+------------------------------------------------------------------------------
+! FIRST BOOT TAKES 2 MINUTES AND 12 SECONDS FOR RESIZING THE ROOT FILESYSTEM !
+------------------------------------------------------------------------------
+
+
+
+ISSUES:
+
+1.)BLACK SCREEN:
+
+If you have a black screen after a boot-time of 2 minute and 12 seconds you must
+
+mount the root filesystem on your Linux-Machine and edit /etc/X11/xorg.conf.d/10-monitor.conf
+
+and set the right Screenresolution(e.g.: 1920x1080).
+
+-----------------------------------------------------
+    Section "Monitor"
+         Identifier "HDMI-1"
+         Option "PreferredMode" "1920x1080"
+    EndSection
+-----------------------------------------------------
+
+
+
+# DO NOT OVERCLOCK WITH "rsetup" 
+
+____________________________________________________________________________
+# DOWNLOADS:
+-----------
 
 SD-Card Image: <a href="https://drive.google.com/file/d/1j_rukWRvlFamKC-29lodC6pXjodwvzJU/view?usp=sharing">kali-rock-3a-2023-05-16.img.xz</a> (3.2 GB)
 
