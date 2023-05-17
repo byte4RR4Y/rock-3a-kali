@@ -1,4 +1,4 @@
-# Kali Linux XFCE for Radxa Rock 3A (untested)
+# Kali Linux XFCE for Radxa Rock 3A (untested) RK3568
 __________________________________________________________________________________________________
 "If it doesn't exist, create it yourself." Daniel Wieczorek
 __________________________________________________________________________________________________
