@@ -1,4 +1,4 @@
-# Kali Linux XFCE for Radxa Rock 3A
+# Kali Linux XFCE for Radxa Rock 3A (untested)
 __________________________________________________________________________________________________
 # A Kali Linux ARM image for the RADXA Rock 3A (untested)
 
