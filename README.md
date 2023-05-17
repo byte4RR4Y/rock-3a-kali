@@ -26,7 +26,7 @@ The image is 16.7 GB and therefore a 32 GB SD card is required.
 ----------------------------
 
 ------------------------------------------------------------------------------
-! FIRST BOOT TAKES 2 MINUTES AND 12 SECONDS FOR RESIZING THE ROOT FILESYSTEM !
+! FIRST BOOT TAKES ABOUT 2 MINUTES FOR RESIZING THE ROOT FILESYSTEM !
 ------------------------------------------------------------------------------
 
 
@@ -35,7 +35,7 @@ ISSUES:
 
 1.)BLACK SCREEN:
 
-If you have a black screen after a boot-time of 2 minutes and 12 seconds you must
+If you have a black screen after a boot-time of about 2 minutes you must
 
 mount the root filesystem on your Linux-Machine and edit /etc/X11/xorg.conf.d/10-monitor.conf
 
