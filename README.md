@@ -2,7 +2,10 @@
 __________________________________________________________________________________________________
 "If it doesn't exist, create it yourself." Daniel Wieczorek
 __________________________________________________________________________________________________
-
+#####################################################
+# FIRST BOOT REQUIRES WIRED INTERNET CONNECTIO FOR
+# AUTO INSTALLATION OF XFCE
+#####################################################
 It's a Rolling release, so you can do: 
 -------------------------
     apt update && apt upgrade && apt full-upgrade && apt dist-upgrade
@@ -56,5 +59,5 @@ ____________________________________________________________________________
 # DOWNLOADS:
 -----------
 
-SD-Card Image: <a href="https://drive.google.com/file/d/1j_rukWRvlFamKC-29lodC6pXjodwvzJU/view?usp=sharing">kali-rock-3a-2023-05-16.img.xz</a> (3.2 GB)
+SD-Card Image: <a href="https://drive.google.com/file/d/1bS8_gUV3We8IstxTWu_q8adKg2pPetOd/view?usp=sharing">kali-rock-3a-2023-05-16.img.xz</a> (3.2 GB)
 
