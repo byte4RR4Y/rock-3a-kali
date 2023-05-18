@@ -20,14 +20,14 @@ REAL KALI LINUX
 ----------------
 
 This is a kali build from the bottom of a kali root filesystem
-The image is 16.7 GB and therefore a 32 GB SD card is required. 
+The image is 15.6 GB and therefore a 32 GB SD card is required. 
 ----------------------------
     login:_______kali
     password:____kali
     ----------------------
     Desktop: XFCE4
     Kernel: 6.1.0
-    Build Date: 2023/05/16
+    Build Date: 2023/05/18
 ----------------------------
 
 ------------------------------------------------------------------------------
@@ -38,5 +38,5 @@ ___________________________________________________________________________
 # DOWNLOADS:
 -----------
 
-SD-Card Image: <a href="https://drive.google.com/file/d/1bS8_gUV3We8IstxTWu_q8adKg2pPetOd/view?usp=sharing">kali-rock-3a-2023-05-18.img.xz</a> (3.2 GB)
+SD-Card Image: <a href="https://drive.google.com/file/d/1bS8_gUV3We8IstxTWu_q8adKg2pPetOd/view?usp=sharing">kali-rock-3a-2023-05-18.img.xz</a> (2.8 GB)
 
