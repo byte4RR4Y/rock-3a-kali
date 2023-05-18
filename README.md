@@ -38,5 +38,5 @@ ___________________________________________________________________________
 # DOWNLOADS:
 -----------
 
-SD-Card Image: <a href="https://drive.google.com/file/d/1bS8_gUV3We8IstxTWu_q8adKg2pPetOd/view?usp=sharing">kali-rock-3a-2023-05-16.img.xz</a> (3.2 GB)
+SD-Card Image: <a href="https://drive.google.com/file/d/1bS8_gUV3We8IstxTWu_q8adKg2pPetOd/view?usp=sharing">kali-rock-3a-2023-05-18.img.xz</a> (3.2 GB)
 
