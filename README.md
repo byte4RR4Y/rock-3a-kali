@@ -6,6 +6,8 @@ ________________________________________________________________________________
 # FIRST BOOT REQUIRES WIRED INTERNET CONNECTIO FOR
 # AUTO INSTALLATION OF XFCE
 #####################################################
+
+
 It's a Rolling release, so you can do: 
 -------------------------
     apt update && apt upgrade && apt full-upgrade && apt dist-upgrade
